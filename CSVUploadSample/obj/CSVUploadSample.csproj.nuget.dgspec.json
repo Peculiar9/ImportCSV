@@ -1,0 +1,63 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/peculiar/Documents/CSVUPload/ImportCSV/CSVUploadSample/CSVUploadSample.csproj": {}
+  },
+  "projects": {
+    "/home/peculiar/Documents/CSVUPload/ImportCSV/CSVUploadSample/CSVUploadSample.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/peculiar/Documents/CSVUPload/ImportCSV/CSVUploadSample/CSVUploadSample.csproj",
+        "projectName": "CSVUploadSample",
+        "projectPath": "/home/peculiar/Documents/CSVUPload/ImportCSV/CSVUploadSample/CSVUploadSample.csproj",
+        "packagesPath": "/home/peculiar/.nuget/packages/",
+        "outputPath": "/home/peculiar/Documents/CSVUPload/ImportCSV/CSVUploadSample/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/peculiar/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
